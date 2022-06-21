@@ -39,7 +39,7 @@ MarkupSafe==1.1.1
 mccabe==0.6.1
 more-itertools==7.2.0
 multidict==3.3.2
-numpy==1.17.1
+numpy==1.22.0
 oauthlib==3.1.0
 opencv-python==4.1.0.25
 packaging==19.1
