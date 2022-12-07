@@ -6,7 +6,7 @@ awscli==1.16.225
 boto3==1.4.8
 botocore==1.12.215
 cachetools==3.1.1
-certifi==2017.11.5
+certifi==2022.12.7
 certstream==1.8
 chardet==3.0.4
 Click==7.0
